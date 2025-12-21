@@ -1,5 +1,5 @@
 using System;
-
+using Linq;
 namespace Lab6
 {
     public delegate void Sorting(int[,] matrix);
@@ -448,3 +448,4 @@ namespace Lab6
         }
     }
 }
+
