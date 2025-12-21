@@ -1,9 +1,5 @@
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
-using System.Linq.Expressions;
-using System.Reflection.Metadata.Ecma335;
-using System.Runtime.InteropServices;
-using System.Runtime.Intrinsics.Arm;
 
 namespace Lab6
 {
@@ -453,3 +449,4 @@ namespace Lab6
         }
     }
 }
+
